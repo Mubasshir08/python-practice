@@ -4,7 +4,7 @@
 array = [1,1,2,3,4,5,8,9,6,2,1,5,8,9,10,11,52,36,17,2,8,4,6,9,52,48,50,50,48,87,96,105,50]
 
 # making new array to store each unique number
-new_array=[]
+new_array = []
 
 for num in array:
     if num in new_array:
